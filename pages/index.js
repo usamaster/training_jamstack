@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-       Ussie!!! Da man
+       Ussie!!! Da man 2
       </h1>
 
       <p className="description">
